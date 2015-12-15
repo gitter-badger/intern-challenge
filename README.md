@@ -1,5 +1,7 @@
 # Intern Challenge: HTML/CSS #
 
+[![Join the chat at https://gitter.im/ContaAzul/intern-challenge](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ContaAzul/intern-challenge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Esse desafio testará as principais habilidades que um desenvolvedor front-end deve possuir para transformar um mockup (desenho ainda não funcional da tela) em um protótipo.
 Veja abaixo, os passos que você deve executar para concluir o desafio.
 
